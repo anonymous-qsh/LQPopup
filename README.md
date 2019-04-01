@@ -26,4 +26,6 @@ Little Queen, anonymous.qsh@gmail.com
 
 ## License
 
+**Reference from**: https://github.com/JonyFang/FFPopup, thanks this author.
+
 LQPopup is available under the MIT license. See the LICENSE file for more info.
